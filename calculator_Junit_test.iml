@@ -33,5 +33,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="junit-platform-suite-api-1.13.0-M2" level="project" />
   </component>
 </module>

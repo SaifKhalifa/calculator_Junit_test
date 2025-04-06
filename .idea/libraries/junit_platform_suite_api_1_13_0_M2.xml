@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-platform-suite-api-1.13.0-M2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit-platform-suite-api-1.13.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
