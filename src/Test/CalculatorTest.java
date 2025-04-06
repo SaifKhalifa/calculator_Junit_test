@@ -11,7 +11,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 @TestMethodOrder(OrderAnnotation.class)
-@DisplayName("Calculator Tests")
+@DisplayName("Calculator Test Suite")
 public class CalculatorTest {
 	
     Calculator calculator;
