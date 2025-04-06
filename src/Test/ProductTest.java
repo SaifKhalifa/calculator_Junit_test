@@ -13,8 +13,12 @@ import static org.junit.jupiter.api.Assertions.*;
 @DisplayName("Product Test Suite")
 public class ProductTest
 {
+	Product product;
 
 	@BeforeEach
+	void setUp() throws Exception {
+		product = new Product("test product", 4.00);
+	}
 	@BeforeAll
 	void beforeAll() {
 		System.out.println("Starting Product Tests...");
